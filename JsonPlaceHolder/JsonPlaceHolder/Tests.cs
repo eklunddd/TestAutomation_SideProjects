@@ -4,15 +4,12 @@ namespace JsonPlaceHolder
 {
     public class Tests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
 
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+            string checkAccountSetup = "hopefully I will use my personal account this time!";
+            Assert.That(checkAccountSetup== "hopefully I will use my personal account this time!");
         }
     }
 }
