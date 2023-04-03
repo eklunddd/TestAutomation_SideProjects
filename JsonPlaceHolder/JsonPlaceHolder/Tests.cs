@@ -6,7 +6,7 @@ namespace JsonPlaceHolder
     {
 
         [Test]
-        public void Test1()
+        public void MockStringTest()
         {
             string checkAccountSetup = "hopefully I will use my personal account this time!";
             Assert.That(checkAccountSetup== "hopefully I will use my personal account this time!");

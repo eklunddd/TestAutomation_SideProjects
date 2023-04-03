@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\JsonPlaceHolder",
+    "\\JsonPlaceHolder\\JsonPlaceHolder"
   ],
-  "SelectedNode": "\\C:\\Users\\Anton.Eklund\\Source\\Repos\\TestAutomation_SideProjects",
+  "SelectedNode": "\\JsonPlaceHolder\\JsonPlaceHolder\\Tests.cs",
   "PreviewInSolutionExplorer": false
 }
